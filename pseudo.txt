@@ -1,0 +1,2 @@
+Browser Back/Forward: 
+- Build 2 stacks (one for forward and one for backwards). For every new page visited, that page would go on top of the stack. Every time the back arrow is clicked that page would be popped off and returned (revelaing the page), and the original page would go onto the 'forward' stack. 
